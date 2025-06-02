@@ -1,0 +1,163 @@
+/*--------------------------------------------------------------
+## Background Color
+--------------------------------------------------------------*/
+.separator,
+.slick-dots li.slick-active button:before,
+.btn-play,
+.jetpack_subscription_widget input[type="submit"],
+.backtotop,
+form.search-form button.search-submit,
+.skillbar-inner,
+.events-list-wrapper .widget_calendar tbody td#today:before,
+.red-overlay,
+.custom-info,
+.wpcf7 input.wpcf7-form-control.wpcf7-submit,
+.navigation.posts-navigation a:hover svg, 
+.navigation.post-navigation a:hover svg, 
+.navigation.posts-navigation a:focus svg, 
+.navigation.post-navigation a:focus svg,
+.wpcf7 input[type="submit"], 
+#respond input[type="submit"],
+.slick-prev, 
+.slick-next,
+.post-navigation:before,
+.posts-navigation:before,
+.post-navigation:after,
+.posts-navigation:after,
+.site-footer .backtotop,
+.main-navigation ul.sub-menu li:hover > a, 
+.main-navigation ul.sub-menu li:focus > a {
+    background-color: #d91717;
+}
+
+/*--------------------------------------------------------------
+## Text Color
+--------------------------------------------------------------*/
+#upcoming-events .section-title span,
+.section-title span,
+.entry-title span,
+.section-title span
+.designation span,
+#page-title .page-header .entry-title span,
+.related-posts-title span,
+.comments-title span,
+#reply-title span,
+.read-more a,
+.events-wrapper .entry-meta .posted-on time,
+.site-footer .textwidget .last-name,
+.site-footer .site-info a,
+.testimonial-slider .entry-title a,
+#skills-section .entry-title small, 
+#movies-list .entry-title small,
+.skill-percentage,
+ul.trail-items li.trail-item.trail-end,
+.events-list-wrapper time span,
+.events-list-wrapper .widget_calendar caption,
+.entry-meta a time,
+.author-content .entry-title a,
+.reply a,
+.pagingInfo:first-letter,
+.main-navigation ul.menu li.current-menu-item > a {
+    color: #d91717;
+}
+
+/*--------------------------------------------------------------
+## Text Hover Color
+--------------------------------------------------------------*/
+a:hover, 
+a:focus, 
+a:active,
+.post-categories a:hover, 
+.post-categories a:focus, 
+.entry-meta .posted-on a:hover time, 
+.entry-meta .posted-on a:focus time,
+#latest-posts .entry-meta a:hover time, 
+#latest-posts .entry-meta a:focus time,
+.footer-widgets-area a:hover, 
+.footer-widgets-area a:focus,
+ul.trail-items li a:hover, 
+ul.trail-items li a:focus,
+.wpcf7 input.wpcf7-form-control.wpcf7-submit:hover, 
+.wpcf7 input.wpcf7-form-control.wpcf7-submit:focus,
+.pagination .page-numbers.current, 
+.pagination .page-numbers:hover, 
+.pagination .page-numbers:focus,
+#related-posts .entry-title a:hover, 
+#related-posts .entry-title a:focus, 
+#related-posts ul.post-categories li a:hover, 
+#related-posts ul.post-categories li a:focus,
+.comment-meta .url:hover, 
+.comment-meta .url:focus,
+.wpcf7 input[type="submit"]:hover, 
+#respond input[type="submit"]:hover,
+.site-footer .footer-details .textwidget .last-name {
+    color: #d91717;
+}
+
+.main-navigation ul.nav-menu > li > a.search:hover svg.icon-search, 
+.main-navigation ul.nav-menu > li > a.search:focus svg.icon-search,
+.get-in-touch svg,
+#feedback-section .section-content .icon-quote,
+svg.icon-menu,
+.menu-open .menu-toggle .icon-close,
+.main-navigation a:hover > svg.icon-down,
+.main-navigation li:hover > .dropdown-toggle svg.icon.icon-angle-down,
+#search button.search-submit:hover svg,
+.blog-loader svg {
+    fill: #d91717;
+}
+
+/*--------------------------------------------------------------
+## Border Color
+--------------------------------------------------------------*/
+.main-navigation ul.sub-menu {
+    border-top-color: #d91717;
+}
+#comments .parent ol.children article {
+    border-left-color: #d91717;
+}
+.site-footer .site-info a:hover, 
+.site-footer .site-info a:focus,
+.main-navigation button.search-submit:before,
+.reply {
+    border-bottom-color: #d91717;
+}
+.wpcf7 input.wpcf7-form-control.wpcf7-submit,
+.post-navigation, 
+.posts-navigation,
+.wpcf7 input[type="submit"], 
+#respond input[type="submit"],
+.wpcf7 input[type="submit"]:hover, 
+#respond input[type="submit"]:hover {
+    border-color: #d91717;
+}
+
+@media screen and (max-width: 1023px) {
+    .main-navigation ul.menu li.current-menu-item > a, 
+    .main-navigation ul.menu li:hover > a {
+        color: #d91717;
+        background-color: transparent;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #latest-posts .section-content {
+        border: 5px solid #d91717;
+    }
+}
+/*--------------------------------------------------------------
+## Preloader
+--------------------------------------------------------------*/
+@keyframes preloader {
+    0% {height:5px;transform:translateY(0px);background: #d91717;}
+    25% {height:30px;transform:translateY(15px);background: #d91717;}
+    50% {height:5px;transform:translateY(0px);background: #d91717;}
+    100% {height:5px;transform:translateY(0px);background: #d91717;}
+}
+
+/*--------------------------------------------------------------
+## Scrollbar
+--------------------------------------------------------------*/
+#upcoming-events ::-webkit-scrollbar-thumb {
+    background-color: #d91717;
+}

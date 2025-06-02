@@ -1,0 +1,24 @@
+#customize-controls .control-section-personify .accordion-section-title:hover,
+#customize-controls .control-section-personify .accordion-section-title:focus {
+	background-color: #333;
+	color: #fff;
+}
+
+.control-section-personify .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #d91717;
+	border-color: #d91717;
+	color: #fff;
+}
+
+.rtl .control-section-personify .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-personify h3.accordion-section-title {
+    background-color: #333;
+    color: #fff;
+}
