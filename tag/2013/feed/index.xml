@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2013 &#8211; Aslan Gotov</title>
-	<atom:link href="/tag/2013/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/aslangotov.github.io/tag/2013/feed/" rel="self" type="application/rss+xml" />
+	<link>/aslangotov.github.io/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 14:23:14 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2013 &#8211; Aslan Gotov</title>
-	<link>/</link>
+	<link>/aslangotov.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2013, Ballet &#8220;Hymn to the Sun&#8221;</title>
-		<link>/2013/06/hymn-to-the-sun/</link>
+		<link>/aslangotov.github.io/2013/06/hymn-to-the-sun/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 13 Jun 2013 02:40:18 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[2013]]></category>
-		<guid isPermaLink="false">/?p=436</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=436</guid>
 
 					<description><![CDATA[In 2013, Aslan Gotov creates the ballet &#8220;Hymn to the Sun&#8221; for the Opera and Ballet Theater of the Kabardino-Balkarian Republic. Russia, Nalchik.]]></description>
 										<content:encoded><![CDATA[<p>In 2013, Aslan Gotov creates the ballet &#8220;Hymn to the Sun&#8221; for the Opera and Ballet Theater of the Kabardino-Balkarian Republic. Russia, Nalchik.</p>

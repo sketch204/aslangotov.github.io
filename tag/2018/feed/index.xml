@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2018 &#8211; Aslan Gotov</title>
-	<atom:link href="/tag/2018/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/aslangotov.github.io/tag/2018/feed/" rel="self" type="application/rss+xml" />
+	<link>/aslangotov.github.io/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 15:42:42 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2018 &#8211; Aslan Gotov</title>
-	<link>/</link>
+	<link>/aslangotov.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2018. Ethno project with Mira Solovianenko</title>
-		<link>/2018/04/2018-ethno-project/</link>
+		<link>/aslangotov.github.io/2018/04/2018-ethno-project/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 27 Apr 2018 15:40:16 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2018]]></category>
-		<guid isPermaLink="false">/?p=775</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=775</guid>
 
 					<description><![CDATA[Since 2018 Aslan has been working as an arranger in an ethno project with Mira Solovianenko, a Canadian singer with Ukrainian roots. Toronto, Canada.]]></description>
 										<content:encoded><![CDATA[<p>Since 2018 Aslan has been working as an arranger in an ethno project with Mira Solovianenko, a Canadian singer with Ukrainian roots. Toronto, Canada.</p>

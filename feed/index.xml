@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Aslan Gotov</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/aslangotov.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>/aslangotov.github.io/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Sun, 19 Jan 2025 18:40:45 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>Aslan Gotov</title>
-	<link>/</link>
+	<link>/aslangotov.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Jan 17 2025 &#8211; Duduk, Jazz &#038; Winter Nights &#8211; Ethnosonic &#038; Sar Kamlér &#8211; Live in Concert</title>
-		<link>/2025/01/2025-01-17/</link>
+		<link>/aslangotov.github.io/2025/01/2025-01-17/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 19 Jan 2025 18:33:40 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[2025]]></category>
-		<guid isPermaLink="false">/?p=846</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=846</guid>
 
 					<description><![CDATA[Dudukhouse Presents: &#8220;Duduk, Jazz &#038; Winter Nights&#8221; Warm up to a fusion of the duduk&#8217;s soul, jazz, and global sounds. Event info: https://www.dudukhousemusic.com/ Date: Friday,...]]></description>
 										<content:encoded><![CDATA[<p>Dudukhouse Presents:<br />
@@ -47,7 +47,7 @@ Event info: <a href="https://www.dudukhousemusic.com/" target="_blank">https://w
 Time: 7:30 PM – 9:30 PM (Doors open at 7:00 PM)<br />
 Venue: City Playhouse Theatre<br />
 102-1000 New Westminster Drive, Vaughan, ON L4J 8G3</p>
-<figure class="wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube epyt-figure"><div class="wp-block-embed__wrapper"><iframe  id="_ytid_43487"  width="500" height="250"  data-origwidth="500" data-origheight="250" src="https://www.youtube.com/embed/t3TvmB3iFPo?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  no-lazyload" title="YouTube player"  allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div></figure>
+<figure class="wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube epyt-figure"><div class="wp-block-embed__wrapper"><iframe  id="_ytid_11575"  width="500" height="250"  data-origwidth="500" data-origheight="250" src="https://www.youtube.com/embed/t3TvmB3iFPo?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  no-lazyload" title="YouTube player"  allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div></figure>
 ]]></content:encoded>
 					
 		
@@ -55,13 +55,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2021. “Immersive Nutcracker”</title>
-		<link>/2021/09/2021-immersive-nutcracker/</link>
+		<link>/aslangotov.github.io/2021/09/2021-immersive-nutcracker/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 27 Sep 2021 15:56:05 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2021]]></category>
-		<guid isPermaLink="false">/?p=787</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=787</guid>
 
 					<description><![CDATA[Aslan adapted and sophisticatedly arranged Tchaikovsky’s ingenious score of “Immersive Nutcracker” in a modern, innovative digital format for a magical experience in Toronto and all...]]></description>
 										<content:encoded><![CDATA[<div style="color: black;">Aslan adapted and sophisticatedly arranged Tchaikovsky’s ingenious score of “Immersive Nutcracker” in a modern, innovative digital format for a magical experience in Toronto and all around the world.</div>
@@ -73,13 +73,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2021. Film &#8220;On The Waves Ukrainian Music&#8221;</title>
-		<link>/2021/09/2021-film/</link>
+		<link>/aslangotov.github.io/2021/09/2021-film/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 27 Sep 2021 15:53:31 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2021]]></category>
-		<guid isPermaLink="false">/?p=785</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=785</guid>
 
 					<description><![CDATA[In 2021 Aslan worked as an arranger of the film &#8220;On The Waves Ukrainian Music&#8221; by Ethnic Channels Group Limited]]></description>
 										<content:encoded><![CDATA[<p>In 2021 Aslan worked as an arranger of the film &#8220;On The Waves Ukrainian Music&#8221; by Ethnic Channels Group Limited</p>
@@ -90,13 +90,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2019 &#8211; Present. Aslan Gotov and Friends</title>
-		<link>/2021/09/2019-present-aslan-gotov-and-friends/</link>
+		<link>/aslangotov.github.io/2021/09/2019-present-aslan-gotov-and-friends/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 27 Sep 2021 15:49:27 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2019]]></category>
-		<guid isPermaLink="false">/?p=781</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=781</guid>
 
 					<description><![CDATA[From 2019 to the present, Aslan revived solo project “Aslan Gotov and Friends&#8221; on YouTube platform &#8211; https://www.youtube.com/channel/UCawOdcYXDI_SukSPxu71-Pw]]></description>
 										<content:encoded><![CDATA[<p>From 2019 to the present, Aslan revived solo project “Aslan Gotov and Friends&#8221; on YouTube platform &#8211;<br />
@@ -108,13 +108,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2020. ViVA Trio</title>
-		<link>/2020/09/2020-viva-trio/</link>
+		<link>/aslangotov.github.io/2020/09/2020-viva-trio/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 27 Sep 2020 15:49:56 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2020]]></category>
-		<guid isPermaLink="false">/?p=783</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=783</guid>
 
 					<description><![CDATA[Since 2020 Aslan has been collaborating as an arranger with the Canadian band “ViVA Trio” &#8211; https://www.youtube.com/c/ViVATrio]]></description>
 										<content:encoded><![CDATA[<p>Since 2020 Aslan has been collaborating as an arranger with the Canadian band “ViVA Trio” &#8211;<br />
@@ -126,13 +126,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2019. Musical &#8220;Mama&#8221; Toronto, Canada.</title>
-		<link>/2019/12/2019-musical-mama/</link>
+		<link>/aslangotov.github.io/2019/12/2019-musical-mama/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 27 Dec 2019 16:45:31 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2019]]></category>
-		<guid isPermaLink="false">/?p=779</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=779</guid>
 
 					<description><![CDATA[2019. Aslan worked as an arranger of the musical &#8220;Mama&#8221; Toronto, Canada.]]></description>
 										<content:encoded><![CDATA[<p>2019. Aslan worked as an arranger of the musical &#8220;Mama&#8221; Toronto, Canada.</p>
@@ -143,13 +143,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2019. Nina Shapilskaya</title>
-		<link>/2019/12/2019-nina-shapilskaya/</link>
+		<link>/aslangotov.github.io/2019/12/2019-nina-shapilskaya/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 27 Dec 2019 16:43:44 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2019]]></category>
-		<guid isPermaLink="false">/?p=777</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=777</guid>
 
 					<description><![CDATA[2019. Aslan worked as co-arranger of the project of the Canadian-Russian composer and pianist Nina Shapilskaya &#8211; https://www.youtube.com/channel/UCIyuB2AMVSpCyrX600dFJEA]]></description>
 										<content:encoded><![CDATA[<p>2019. Aslan worked as co-arranger of the project of the Canadian-Russian composer and pianist Nina Shapilskaya &#8211;<br />
@@ -161,18 +161,18 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>Murad Kazhlaev</title>
-		<link>/2019/06/murad-kazhlaev/</link>
+		<link>/aslangotov.github.io/2019/06/murad-kazhlaev/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 14 Jun 2019 03:10:22 +0000</pubDate>
 				<category><![CDATA[Connections]]></category>
 		<category><![CDATA[Karachay-Cherkessia]]></category>
-		<guid isPermaLink="false">/?p=516</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=516</guid>
 
 					<description><![CDATA[The name of composer, conductor, pedagogue, People&#8217;s Artist of USSR, and Professor Murad Kazhlaev is widely known to fans and admirers of music. The representative...]]></description>
 										<content:encoded><![CDATA[<p>The name of composer, conductor, pedagogue, People&#8217;s Artist of USSR, and Professor Murad Kazhlaev is widely known to fans and admirers of music. The representative of one of the peoples of the Caucasus &#8211; Murad Kazhlaev was among the founders of the professional music of Dagestan. His creative work is inextricably linked with the life and music of his beautiful homeland, a country with an interesting history and a rich distinctive folklore.<br />
 Murad Kazhlaev was born in 1931 in Baku in the physician family. Musical ability appeared to him early. Composition education he received at the Azerbaijan State Conservatory in the class of Professor BI Zeydman. In 1954, still a student at the conservatory, Kazhlaev was accepted as a member of the Union of Soviet Composers.</p>
-<p><a href="/wp-content/uploads/2019/06/kazhl.jpg"><img fetchpriority="high" decoding="async" src="/wp-content/uploads/2019/06/kazhl.jpg" alt="" width="492" height="114" class="aligncenter size-full wp-image-517" srcset="/wp-content/uploads/2019/06/kazhl.jpg 492w, /wp-content/uploads/2019/06/kazhl-300x70.jpg 300w" sizes="(max-width: 492px) 100vw, 492px" /></a></p>
+<p><a href="/aslangotov.github.io/wp-content/uploads/2019/06/kazhl.jpg"><img fetchpriority="high" decoding="async" src="/aslangotov.github.io/wp-content/uploads/2019/06/kazhl.jpg" alt="" width="492" height="114" class="aligncenter size-full wp-image-517" srcset="/aslangotov.github.io/wp-content/uploads/2019/06/kazhl.jpg 492w, /aslangotov.github.io/wp-content/uploads/2019/06/kazhl-300x70.jpg 300w" sizes="(max-width: 492px) 100vw, 492px" /></a></p>
 <p>     Murad Kazhlaev is an active composer, writer and public figure, the work which deserves to be very popular in Russia and abroad. His work has been international prizes and performed in Austria, Germany, England, United States, Japan, Czechoslovakia, Turkey, Egypt, Bulgaria, Italy, Poland and CIS countries. Capable gifted pianist and conductor, Murad Kazhlaev spent nearly 20 years in the Yuri Silantyev Academic Grand Concert Orchestra as the artistic director and principal conductor, combining this work with teaching in the Rostov State Conservatory named after Sergei Rakhmaninov.</p>
 <p>       M. Kazhlaev has many concerts, promoting classical, contemporary, symphonic, pop-jazz music of Russia and the best examples of the works of composers abroad.</p>
 <p>       The list of works of M. Kazhlaev is more than 300 items, among which the First Daghestan Symphony (1955), the First Dagestan national ballet &#8220;Gorianka&#8221; (1968), revue Million Bridal &#8220;(1971), symphonic dance-pictures (1974), symphonic pictures &#8220;Farhad and Shirin&#8221; (1979), symphonic pictures &#8220;Imam Shamil&#8221; (1992), cantatas, overtures, ballads, songs, music for theatrical productions. Grand master of popular and jazz music, he wrote music for 42 films by Russian and foreign film studios. The works of the composer recorded on 33 long-player and 25 compact discs (CD), issued in Russia, Germany, USA and Italy.</p>
@@ -185,13 +185,13 @@ Murad Kazhlaev was born in 1931 in Baku in the physician family. Musical ability
 			</item>
 		<item>
 		<title>Kim Nazaretov</title>
-		<link>/2019/06/kim-nazaretov/</link>
+		<link>/aslangotov.github.io/2019/06/kim-nazaretov/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 14 Jun 2019 03:03:55 +0000</pubDate>
 				<category><![CDATA[Connections]]></category>
 		<category><![CDATA[Karachay-Cherkessia]]></category>
-		<guid isPermaLink="false">/?p=512</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=512</guid>
 
 					<description><![CDATA[24.06.1936 &#8211; 18.07.1993 The head of a jazz orchestra, band leader, pianist, arranger, conductor, composer, teacher, Honored Artist of Russia (1985). The first in the...]]></description>
 										<content:encoded><![CDATA[<p>24.06.1936 &#8211; 18.07.1993</p>
@@ -208,13 +208,13 @@ Murad Kazhlaev was born in 1931 in Baku in the physician family. Musical ability
 			</item>
 		<item>
 		<title>Khusyn Gotov</title>
-		<link>/2019/06/khusyn-gotov/</link>
+		<link>/aslangotov.github.io/2019/06/khusyn-gotov/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 14 Jun 2019 02:54:21 +0000</pubDate>
 				<category><![CDATA[Connections]]></category>
 		<category><![CDATA[Karachay-Cherkessia]]></category>
-		<guid isPermaLink="false">/?p=508</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=508</guid>
 
 					<description><![CDATA[Khusyn Azamat-Gerievich Gotov &#8211; Renowned Circassian professional singer-educator and statesman, holds the following titles: Honored Artist of Kabardino-Balkaria Republic, People&#8217;s artist of Karachay-Cherkessia Republic, Honored...]]></description>
 										<content:encoded><![CDATA[<p>Khusyn Azamat-Gerievich Gotov &#8211; Renowned Circassian professional singer-educator and statesman, holds the following titles: Honored Artist of Kabardino-Balkaria Republic, People&#8217;s artist of Karachay-Cherkessia Republic, Honored Artist of Russian Federation, People&#8217;s Artist of the Russian Federation.<br />
@@ -222,7 +222,7 @@ Murad Kazhlaev was born in 1931 in Baku in the physician family. Musical ability
       From 1972 to 1974 he was director of the Habez Music School, where he prepared a group of talented young men who won acclaim as they performed across many regions of Russia. During his tenure as director, in 1973, the Habez Music School took part in an international folklore festival called Mountain Land in the Polish People&#8217;s Republic, where Khusyn performed Circassian folk songs.<br />
       From 1974 to 1981 Khusyn Gotov worked as a vocal teacher for the Kamyshin Music School in the Volgograd region, while enjoying a rigorous concert schedule there.<br />
       In 1981, Khusyn Gotov returned to their homeland. From the early days, he started to work as a singing teacher in Cherkessk School Culture and the Arts.</p>
-<p><a href="/wp-content/uploads/2019/06/Khusin1.jpg"><img decoding="async" src="/wp-content/uploads/2019/06/Khusin1.jpg" alt="" width="454" height="147" class="aligncenter size-full wp-image-509" srcset="/wp-content/uploads/2019/06/Khusin1.jpg 454w, /wp-content/uploads/2019/06/Khusin1-300x97.jpg 300w" sizes="(max-width: 454px) 100vw, 454px" /></a></p>
+<p><a href="/aslangotov.github.io/wp-content/uploads/2019/06/Khusin1.jpg"><img decoding="async" src="/aslangotov.github.io/wp-content/uploads/2019/06/Khusin1.jpg" alt="" width="454" height="147" class="aligncenter size-full wp-image-509" srcset="/aslangotov.github.io/wp-content/uploads/2019/06/Khusin1.jpg 454w, /aslangotov.github.io/wp-content/uploads/2019/06/Khusin1-300x97.jpg 300w" sizes="(max-width: 454px) 100vw, 454px" /></a></p>
 <p>      Khusyn Gotov has been blessed by nature with a wide range and beautiful timbre of voice, and is the first Circassian professional singer. Performing with vivid charm and personality, he has given new life to many songs and poems by local writers and poets. He sings in all of the many languages of the North Caucasus, which is always cause for pride, and promotes a sense of friendship and mutual understanding in his audience. People know and love him, both in Karachay-Cherkessian Republic and far beyond. He is an honorary doctor of Karachay-Cherkessia State University and was awarded the Voice of the Motherland Academy public recognition Kislovodsk Institute of Economics and Law. Since 2003, Khusyn has been the Director of the Karachay-Cherkessia State College of Culture and the Arts. He is a vocal advocate of Soviet-Russian and foreign classics. He continues to make valuable contributions to the development of culture in our country by his activity as a performer, teacher, and as the director of the College of Culture and the Arts. With a great concert of compositions by Russian, Soviet and foreign composers, as well as composers of the North Caucasus, it actively promotes concerts. He has traveled with concerts in Adygea and Abkhazia, Kabardino-Balkaria, has appeared on many concert stages of Russia, Belgium, Holland, Spain, Poland, Turkey and Israel.</p>
 ]]></content:encoded>
 					

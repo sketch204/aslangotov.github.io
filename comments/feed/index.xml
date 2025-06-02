@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Aslan Gotov	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/aslangotov.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/aslangotov.github.io/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Sun, 19 Jan 2025 18:56:32 +0000</lastBuildDate>
 	<sy:updatePeriod>

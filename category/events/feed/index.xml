@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Events &#8211; Aslan Gotov</title>
-	<atom:link href="/category/events/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/aslangotov.github.io/category/events/feed/" rel="self" type="application/rss+xml" />
+	<link>/aslangotov.github.io/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Sun, 19 Jan 2025 18:40:45 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>Events &#8211; Aslan Gotov</title>
-	<link>/</link>
+	<link>/aslangotov.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Jan 17 2025 &#8211; Duduk, Jazz &#038; Winter Nights &#8211; Ethnosonic &#038; Sar Kamlér &#8211; Live in Concert</title>
-		<link>/2025/01/2025-01-17/</link>
+		<link>/aslangotov.github.io/2025/01/2025-01-17/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 19 Jan 2025 18:33:40 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[2025]]></category>
-		<guid isPermaLink="false">/?p=846</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=846</guid>
 
 					<description><![CDATA[Dudukhouse Presents: &#8220;Duduk, Jazz &#038; Winter Nights&#8221; Warm up to a fusion of the duduk&#8217;s soul, jazz, and global sounds. Event info: https://www.dudukhousemusic.com/ Date: Friday,...]]></description>
 										<content:encoded><![CDATA[<p>Dudukhouse Presents:<br />
@@ -47,7 +47,7 @@ Event info: <a href="https://www.dudukhousemusic.com/" target="_blank">https://w
 Time: 7:30 PM – 9:30 PM (Doors open at 7:00 PM)<br />
 Venue: City Playhouse Theatre<br />
 102-1000 New Westminster Drive, Vaughan, ON L4J 8G3</p>
-<figure class="wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube epyt-figure"><div class="wp-block-embed__wrapper"><iframe  id="_ytid_69067"  width="500" height="250"  data-origwidth="500" data-origheight="250" src="https://www.youtube.com/embed/t3TvmB3iFPo?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  no-lazyload" title="YouTube player"  allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div></figure>
+<figure class="wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube epyt-figure"><div class="wp-block-embed__wrapper"><iframe  id="_ytid_76238"  width="500" height="250"  data-origwidth="500" data-origheight="250" src="https://www.youtube.com/embed/t3TvmB3iFPo?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  no-lazyload" title="YouTube player"  allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div></figure>
 ]]></content:encoded>
 					
 		
@@ -55,14 +55,14 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2013, Ballet &#8220;Hymn to the Sun&#8221;</title>
-		<link>/2013/06/hymn-to-the-sun/</link>
+		<link>/aslangotov.github.io/2013/06/hymn-to-the-sun/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 13 Jun 2013 02:40:18 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[2013]]></category>
-		<guid isPermaLink="false">/?p=436</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=436</guid>
 
 					<description><![CDATA[In 2013, Aslan Gotov creates the ballet &#8220;Hymn to the Sun&#8221; for the Opera and Ballet Theater of the Kabardino-Balkarian Republic. Russia, Nalchik.]]></description>
 										<content:encoded><![CDATA[<p>In 2013, Aslan Gotov creates the ballet &#8220;Hymn to the Sun&#8221; for the Opera and Ballet Theater of the Kabardino-Balkarian Republic. Russia, Nalchik.</p>
@@ -73,7 +73,7 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2009-2010, &#8220;Two stars&#8221;, &#8220;Dancing with the Stars&#8221; (First TV-Channel)</title>
-		<link>/2010/06/2009-2010/</link>
+		<link>/aslangotov.github.io/2010/06/2009-2010/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 13 Jun 2010 02:31:19 +0000</pubDate>
@@ -81,7 +81,7 @@ Venue: City Playhouse Theatre<br />
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[2009]]></category>
 		<category><![CDATA[2010]]></category>
-		<guid isPermaLink="false">/?p=426</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=426</guid>
 
 					<description><![CDATA[2009-2010, collaboration with the company &#8220;Fonograf&#8221; of Sergei Zhilin as arranger in project &#8220;Two stars&#8221;, &#8220;Dancing with the Stars&#8221; (First TV-Channel)]]></description>
 										<content:encoded><![CDATA[<p>2009-2010, collaboration with the company &#8220;Fonograf&#8221; of Sergei Zhilin as arranger in project &#8220;Two stars&#8221;, &#8220;Dancing with the Stars&#8221; (First TV-Channel)</p>
@@ -92,14 +92,14 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>Spring 2008, The musical &#8220;Scapin&#8217;s deceits&#8221;</title>
-		<link>/2008/06/spring-2008/</link>
+		<link>/aslangotov.github.io/2008/06/spring-2008/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 12 Jun 2008 22:16:34 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[2008]]></category>
-		<guid isPermaLink="false">/?p=413</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=413</guid>
 
 					<description><![CDATA[Spring 2008, arrangement of music of Anatoly Kremer for the musical &#8220;Scapin&#8217;s deceits&#8221; for Theater on Malaya Bronnaya]]></description>
 										<content:encoded><![CDATA[<p>Spring 2008, arrangement of music of Anatoly Kremer for the musical &#8220;Scapin&#8217;s deceits&#8221; for Theater on Malaya Bronnaya</p>
@@ -110,13 +110,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>February 2008, TV-Channel &#8220;Zvezda&#8221;</title>
-		<link>/2008/02/february-2008-tv-channel-zvezda/</link>
+		<link>/aslangotov.github.io/2008/02/february-2008-tv-channel-zvezda/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 12 Feb 2008 22:56:42 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[2008]]></category>
-		<guid isPermaLink="false">/?p=409</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=409</guid>
 
 					<description><![CDATA[February 2008, In cooperation with TV-Channel &#8220;Zvezda&#8221; Aslan worked as an arranger in project &#8220;Wind of Victory&#8221;]]></description>
 										<content:encoded><![CDATA[
@@ -129,13 +129,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>Autumn 2007, Russian State Music Center</title>
-		<link>/2007/09/autumn-2007/</link>
+		<link>/aslangotov.github.io/2007/09/autumn-2007/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 12 Sep 2007 21:53:20 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[2007]]></category>
-		<guid isPermaLink="false">/?p=406</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=406</guid>
 
 					<description><![CDATA[Autumn 2007, the Russian State Music Center released an album of popular music performed by the Yuri Silantiev Academic Grand Concert Orchestra, which includes several...]]></description>
 										<content:encoded><![CDATA[<p>Autumn 2007, the Russian State Music Center released an album of popular music performed by the Yuri Silantiev Academic Grand Concert Orchestra, which includes several pieces arranged by Aslan Gotov</p>
@@ -146,13 +146,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2005. Vladimir Lyamtsev. Album &#8220;Volkodav&#8221;</title>
-		<link>/2005/06/2005-vladimir-lyamtsev-album-volkodav/</link>
+		<link>/aslangotov.github.io/2005/06/2005-vladimir-lyamtsev-album-volkodav/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 11 Jun 2005 02:08:27 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[2005]]></category>
-		<guid isPermaLink="false">/?p=377</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=377</guid>
 
 					<description><![CDATA[2005, Work on the album &#8220;Volkodav&#8221; of singer and composer Vladimir Lyamtsev]]></description>
 										<content:encoded><![CDATA[<p>2005, Work on the album &#8220;Volkodav&#8221; of singer and composer Vladimir Lyamtsev</p>
@@ -163,13 +163,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2004. Annual festival of patriotic songs</title>
-		<link>/2004/06/2004-annual-festival-of-patriotic-songs/</link>
+		<link>/aslangotov.github.io/2004/06/2004-annual-festival-of-patriotic-songs/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 11 Jun 2004 02:06:57 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[2004]]></category>
-		<guid isPermaLink="false">/?p=375</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=375</guid>
 
 					<description><![CDATA[Cooperation with the Russian Foundation for Peter Tchaikovsky, which holds annual festivals of patriotic songs]]></description>
 										<content:encoded><![CDATA[<p>Cooperation with the Russian Foundation for Peter Tchaikovsky, which holds annual festivals of patriotic songs</p>
@@ -180,13 +180,13 @@ Venue: City Playhouse Theatre<br />
 			</item>
 		<item>
 		<title>2004. Dutch television company &#8220;WorldMadeChannel&#8221;</title>
-		<link>/2004/06/2004-dutch-television-company-worldmadechannel/</link>
+		<link>/aslangotov.github.io/2004/06/2004-dutch-television-company-worldmadechannel/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 11 Jun 2004 02:05:43 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[2004]]></category>
-		<guid isPermaLink="false">/?p=373</guid>
+		<guid isPermaLink="false">/aslangotov.github.io/?p=373</guid>
 
 					<description><![CDATA[2004, Work in the Dutch television company &#8220;WorldMadeChannel&#8221; as a composer and arranger]]></description>
 										<content:encoded><![CDATA[<p>2004, Work in the Dutch television company &#8220;WorldMadeChannel&#8221; as a composer and arranger</p>
