@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2016 &#8211; Aslan Gotov</title>
-	<atom:link href="/aslangotov.github.io/tag/2016/feed/" rel="self" type="application/rss+xml" />
-	<link>/aslangotov.github.io/</link>
+	<atom:link href="/tag/2016/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 15:25:42 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2016 &#8211; Aslan Gotov</title>
-	<link>/aslangotov.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2016. Musical &#8220;Cipollino and Chukokkala&#8221; Toronto, Canada.</title>
-		<link>/aslangotov.github.io/2016/09/2016-musical/</link>
+		<link>/2016/09/2016-musical/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 27 Sep 2016 15:23:35 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2016]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=768</guid>
+		<guid isPermaLink="false">/?p=768</guid>
 
 					<description><![CDATA[2016. Aslan worked as an arranger of the musical &#8220;Cipollino and Chukokkala&#8221; Toronto, Canada.]]></description>
 										<content:encoded><![CDATA[<p>2016. Aslan worked as an arranger of the musical &#8220;Cipollino and Chukokkala&#8221; Toronto, Canada.</p>

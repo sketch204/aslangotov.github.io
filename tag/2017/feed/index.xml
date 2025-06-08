@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2017 &#8211; Aslan Gotov</title>
-	<atom:link href="/aslangotov.github.io/tag/2017/feed/" rel="self" type="application/rss+xml" />
-	<link>/aslangotov.github.io/</link>
+	<atom:link href="/tag/2017/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 16:14:19 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2017 &#8211; Aslan Gotov</title>
-	<link>/aslangotov.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2017. Musical &#8220;Mary Poppins&#8221;</title>
-		<link>/aslangotov.github.io/2017/11/2017-musical-mary-poppins/</link>
+		<link>/2017/11/2017-musical-mary-poppins/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 27 Nov 2017 16:30:21 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2017]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=773</guid>
+		<guid isPermaLink="false">/?p=773</guid>
 
 					<description><![CDATA[2017. Aslan worked as an arranger of the musical &#8220;Mary Poppins&#8221; Toronto, Canada.]]></description>
 										<content:encoded><![CDATA[<p>2017. Aslan worked as an arranger of the musical &#8220;Mary Poppins&#8221; Toronto, Canada.</p>
@@ -46,13 +46,13 @@
 			</item>
 		<item>
 		<title>2017-Present. Andrei Urusov</title>
-		<link>/aslangotov.github.io/2017/09/2017-andrei-urusov/</link>
+		<link>/2017/09/2017-andrei-urusov/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 27 Sep 2017 16:10:43 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2017]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=791</guid>
+		<guid isPermaLink="false">/?p=791</guid>
 
 					<description><![CDATA[Since 2017 to present time Aslan has worked as an arranger for multiple Andrei Urusov&#8217;s songs &#8211; https://youtu.be/mgvw3JcdHqk]]></description>
 										<content:encoded><![CDATA[<p>Since 2017 to present time Aslan has worked as an arranger for multiple Andrei Urusov&#8217;s songs &#8211; </p>

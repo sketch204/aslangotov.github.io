@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2003 &#8211; Aslan Gotov</title>
-	<atom:link href="/aslangotov.github.io/tag/2003/feed/" rel="self" type="application/rss+xml" />
-	<link>/aslangotov.github.io/</link>
+	<atom:link href="/tag/2003/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 13:37:13 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2003 &#8211; Aslan Gotov</title>
-	<link>/aslangotov.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Sep 2003</title>
-		<link>/aslangotov.github.io/2003/06/sep-2003/</link>
+		<link>/2003/06/sep-2003/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 11 Jun 2003 01:59:21 +0000</pubDate>
 				<category><![CDATA[Music]]></category>
 		<category><![CDATA[2003]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=365</guid>
+		<guid isPermaLink="false">/?p=365</guid>
 
 					<description><![CDATA[In September 2003, Aslan arranged the concert program, devoted to the 80th anniversary of the poet Rasul Gamzatov]]></description>
 										<content:encoded><![CDATA[<p>In September 2003, Aslan arranged the concert program, devoted to the 80th anniversary of the poet Rasul Gamzatov</p>

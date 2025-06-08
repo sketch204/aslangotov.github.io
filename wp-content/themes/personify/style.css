@@ -3019,7 +3019,7 @@ ul.trail-items li:last-child:after {
 }
 #movies-list .slick-prev:before,
 #movies-list .slick-next:before {
-    background-image: url('/aslangotov.github.io/wp-content/themes/personify/assets/uploads/left-arrow.svg');
+    background-image: url('/wp-content/themes/personify/assets/uploads/left-arrow.svg');
     width: 30px;
     height: 30px;
     opacity: 0.4;
@@ -3029,7 +3029,7 @@ ul.trail-items li:last-child:after {
 	opacity: 1;
 }
 #movies-list .slick-next:before {
-    background-image: url('/aslangotov.github.io/wp-content/themes/personify/assets/uploads/right-arrow.svg');
+    background-image: url('/wp-content/themes/personify/assets/uploads/right-arrow.svg');
 }
 #skills-section .entry-title {
 	line-height: 1;
@@ -3748,7 +3748,7 @@ ul.post-categories li {
 .slick-prev:before, 
 .slick-next:before {
     content: "";
-    background-image: url('/aslangotov.github.io/wp-content/themes/personify/assets/uploads/left-arrow-white.svg');
+    background-image: url('/wp-content/themes/personify/assets/uploads/left-arrow-white.svg');
     background-repeat: no-repeat;
     width: 18px;
     height: 18px;
@@ -3758,7 +3758,7 @@ ul.post-categories li {
     fill: #fff;
 }
 .slick-next:before {
-    background-image: url('/aslangotov.github.io/wp-content/themes/personify/assets/uploads/right-arrow-white.svg');
+    background-image: url('/wp-content/themes/personify/assets/uploads/right-arrow-white.svg');
 }
 /*--------------------------------------------------------------
 ## Around Social Media

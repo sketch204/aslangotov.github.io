@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Video &#8211; Aslan Gotov</title>
-	<atom:link href="/aslangotov.github.io/category/video/feed/" rel="self" type="application/rss+xml" />
-	<link>/aslangotov.github.io/</link>
+	<atom:link href="/category/video/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 14:26:28 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>Video &#8211; Aslan Gotov</title>
-	<link>/aslangotov.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2007. Alexander Dobronravov</title>
-		<link>/aslangotov.github.io/2007/07/2007-alexander-dobronravov/</link>
+		<link>/2007/07/2007-alexander-dobronravov/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 11 Jul 2007 02:10:22 +0000</pubDate>
 				<category><![CDATA[Celebrities]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[2007]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=379</guid>
+		<guid isPermaLink="false">/?p=379</guid>
 
 					<description><![CDATA[2007, orchestration of the concert program &#8220;How evenings are ravishing in Russia&#8221; of popular composer and singer Alexander Dobronravov.]]></description>
 										<content:encoded><![CDATA[
@@ -49,14 +49,14 @@
 			</item>
 		<item>
 		<title>2004. Sergei Penkin</title>
-		<link>/aslangotov.github.io/2004/06/2004-sergei-penkin/</link>
+		<link>/2004/06/2004-sergei-penkin/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 11 Jun 2004 02:01:29 +0000</pubDate>
 				<category><![CDATA[Celebrities]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[2004]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=367</guid>
+		<guid isPermaLink="false">/?p=367</guid>
 
 					<description><![CDATA[2002-2004. Work with Sergei Penkin. The result was the concert program &#8220;Feelings&#8221;. In 2005, on the basis of this program was released DVD &#8220;Feelings&#8221;]]></description>
 										<content:encoded><![CDATA[

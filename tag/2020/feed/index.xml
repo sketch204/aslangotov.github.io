@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2020 &#8211; Aslan Gotov</title>
-	<atom:link href="/aslangotov.github.io/tag/2020/feed/" rel="self" type="application/rss+xml" />
-	<link>/aslangotov.github.io/</link>
+	<atom:link href="/tag/2020/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 16:04:11 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2020 &#8211; Aslan Gotov</title>
-	<link>/aslangotov.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2020. ViVA Trio</title>
-		<link>/aslangotov.github.io/2020/09/2020-viva-trio/</link>
+		<link>/2020/09/2020-viva-trio/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 27 Sep 2020 15:49:56 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2020]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=783</guid>
+		<guid isPermaLink="false">/?p=783</guid>
 
 					<description><![CDATA[Since 2020 Aslan has been collaborating as an arranger with the Canadian band “ViVA Trio” &#8211; https://www.youtube.com/c/ViVATrio]]></description>
 										<content:encoded><![CDATA[<p>Since 2020 Aslan has been collaborating as an arranger with the Canadian band “ViVA Trio” &#8211;<br />

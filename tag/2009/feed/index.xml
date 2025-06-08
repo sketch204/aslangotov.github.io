@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2009 &#8211; Aslan Gotov</title>
-	<atom:link href="/aslangotov.github.io/tag/2009/feed/" rel="self" type="application/rss+xml" />
-	<link>/aslangotov.github.io/</link>
+	<atom:link href="/tag/2009/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 14:22:32 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2009 &#8211; Aslan Gotov</title>
-	<link>/aslangotov.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2009-2010, &#8220;Two stars&#8221;, &#8220;Dancing with the Stars&#8221; (First TV-Channel)</title>
-		<link>/aslangotov.github.io/2010/06/2009-2010/</link>
+		<link>/2010/06/2009-2010/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 13 Jun 2010 02:31:19 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[2009]]></category>
 		<category><![CDATA[2010]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=426</guid>
+		<guid isPermaLink="false">/?p=426</guid>
 
 					<description><![CDATA[2009-2010, collaboration with the company &#8220;Fonograf&#8221; of Sergei Zhilin as arranger in project &#8220;Two stars&#8221;, &#8220;Dancing with the Stars&#8221; (First TV-Channel)]]></description>
 										<content:encoded><![CDATA[<p>2009-2010, collaboration with the company &#8220;Fonograf&#8221; of Sergei Zhilin as arranger in project &#8220;Two stars&#8221;, &#8220;Dancing with the Stars&#8221; (First TV-Channel)</p>
@@ -48,13 +48,13 @@
 			</item>
 		<item>
 		<title>2009, Album &#8220;Hymn to the Sun&#8221;</title>
-		<link>/aslangotov.github.io/2009/06/2009-album-hymn-to-the-sun/</link>
+		<link>/2009/06/2009-album-hymn-to-the-sun/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 13 Jun 2009 02:35:39 +0000</pubDate>
 				<category><![CDATA[Music]]></category>
 		<category><![CDATA[2009]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=428</guid>
+		<guid isPermaLink="false">/?p=428</guid>
 
 					<description><![CDATA[2009, Preparation of release of his album &#8220;Hymn to the Sun&#8221; of the Project &#8220;Aslan Gotov and friends&#8221;. Album, which will include the ancient Circassian...]]></description>
 										<content:encoded><![CDATA[<p>2009, Preparation of release of his album &#8220;Hymn to the Sun&#8221; of the Project &#8220;Aslan Gotov and friends&#8221;. </p>
@@ -68,13 +68,13 @@
 			</item>
 		<item>
 		<title>2009, The play &#8220;Medey&#8221;</title>
-		<link>/aslangotov.github.io/2009/06/2009-the-play-medey/</link>
+		<link>/2009/06/2009-the-play-medey/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 13 Jun 2009 02:29:32 +0000</pubDate>
 				<category><![CDATA[Music]]></category>
 		<category><![CDATA[2009]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=424</guid>
+		<guid isPermaLink="false">/?p=424</guid>
 
 					<description><![CDATA[2009, work on creating music for the play &#8220;Medey&#8221; of Adiga State Drama Theater]]></description>
 										<content:encoded><![CDATA[<p>2009, work on creating music for the play &#8220;Medey&#8221; of Adiga State Drama Theater</p>

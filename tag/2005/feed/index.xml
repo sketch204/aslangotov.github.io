@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2005 &#8211; Aslan Gotov</title>
-	<atom:link href="/aslangotov.github.io/tag/2005/feed/" rel="self" type="application/rss+xml" />
-	<link>/aslangotov.github.io/</link>
+	<atom:link href="/tag/2005/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 13:57:27 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2005 &#8211; Aslan Gotov</title>
-	<link>/aslangotov.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2005. Vladimir Lyamtsev. Album &#8220;Volkodav&#8221;</title>
-		<link>/aslangotov.github.io/2005/06/2005-vladimir-lyamtsev-album-volkodav/</link>
+		<link>/2005/06/2005-vladimir-lyamtsev-album-volkodav/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 11 Jun 2005 02:08:27 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[2005]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=377</guid>
+		<guid isPermaLink="false">/?p=377</guid>
 
 					<description><![CDATA[2005, Work on the album &#8220;Volkodav&#8221; of singer and composer Vladimir Lyamtsev]]></description>
 										<content:encoded><![CDATA[<p>2005, Work on the album &#8220;Volkodav&#8221; of singer and composer Vladimir Lyamtsev</p>

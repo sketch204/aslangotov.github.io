@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2015 &#8211; Aslan Gotov</title>
-	<atom:link href="/aslangotov.github.io/tag/2015/feed/" rel="self" type="application/rss+xml" />
-	<link>/aslangotov.github.io/</link>
+	<atom:link href="/tag/2015/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Musician, Composer, Arranger</description>
 	<lastBuildDate>Mon, 27 Sep 2021 15:25:15 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/aslangotov.github.io/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-android-chrome-512x512-1-32x32.png</url>
 	<title>2015 &#8211; Aslan Gotov</title>
-	<link>/aslangotov.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>2015. Musical &#8220;Alice in Wonderland&#8221;</title>
-		<link>/aslangotov.github.io/2015/09/2015-musical-alice-in-wonderland/</link>
+		<link>/2015/09/2015-musical-alice-in-wonderland/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 27 Sep 2015 15:23:24 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2015]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=766</guid>
+		<guid isPermaLink="false">/?p=766</guid>
 
 					<description><![CDATA[2015. Aslan worked as an arranger of the musical &#8220;Alice in Wonderland&#8221; Toronto, Canada.]]></description>
 										<content:encoded><![CDATA[<p>2015. Aslan worked as an arranger of the musical &#8220;Alice in Wonderland&#8221; Toronto, Canada.</p>
@@ -46,13 +46,13 @@
 			</item>
 		<item>
 		<title>2015. Soundtrack for the documentary &#8220;Cherkeshenka&#8221;</title>
-		<link>/aslangotov.github.io/2015/09/2015-soundtrack/</link>
+		<link>/2015/09/2015-soundtrack/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 27 Sep 2015 15:20:46 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[2015]]></category>
-		<guid isPermaLink="false">/aslangotov.github.io/?p=764</guid>
+		<guid isPermaLink="false">/?p=764</guid>
 
 					<description><![CDATA[In 2015, the soundtrack for the documentary &#8220;Cherkeshenka&#8221; was written in Maikop, Russia.]]></description>
 										<content:encoded><![CDATA[<p>In 2015, the soundtrack for the documentary &#8220;Cherkeshenka&#8221; was written in Maikop, Russia.</p>
